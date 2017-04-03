@@ -1,4 +1,4 @@
-## Project Name:  Recipe Display Application
+## Project Name:  Photo Gallery Application
 
 ### Course Title:
 LIS 2360:  Web Application Development
